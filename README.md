@@ -1,3 +1,30 @@
+Chatty-App
+
+A simple single page chat app using React Boilerplate and WebSockets.
+
+### Usage
+
+Clone the repo and install dependencies.
+
+```
+git clone git@github.com:kcaseygover/Chatty-App.git
+cd Chatty-App
+npm install
+npm start
+open http://localhost:3000
+```
+
+In another terminal tab, install the WebSockets dependencies and start the server.
+
+```
+cd chatty_server
+npm install
+npm start
+```
+
+Start chatting on http://localhost:3000
+
+
 React Boilerplate
 =====================
 
